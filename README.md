@@ -1,38 +1,15 @@
 
 ### Hi there 👋
 
-##### $ figlet -c Anshika Bansal
- 
- 
-        _              _     _ _           ____                        _ 
-        / \   _ __  ___| |__ (_) | ____ _  | __ )  __ _ _ __  ___  __ _| |
-       / _ \ | '_ \/ __| '_ \| | |/ / _` | |  _ \ / _` | '_ \/ __|/ _` | |
-      / ___ \| | | \__ \ | | | |   < (_| | | |_) | (_| | | | \__ \ (_| | |
-     /_/   \_\_| |_|___/_| |_|_|_|\_\__,_| |____/ \__,_|_| |_|___/\__,_|_|
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshika15&label=Profile%20views&color=0e75b6&style=flat" alt="Anshika15" /> </p>
 
-
-
-
-##### $ cat /etc/profile
-
-NAME=AnshikaBansal
-<br />
-GIT=Anshika15
-<br />
-LINKEDIN=https://www.linkedin.com/in/anshika-bansal-65719a1b5/
-<br />
-
-<h3>
-  <pre><a class="col" href="https://www.linkedin.com/in/anshika-bansal-65719a1b5/"><img width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>    <a class="col" href="mailTo:bansalanshika20@gmail.com"><img width="30px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>    </pre>
-</h3>
-
-##### $ cat bio.txt
-
-
-- 🔭 I’m currently working on Web Development and Problem solving skills.
-- 💬 Ask me about JAVA and DSA!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/anshika-bansal-65719a1b5/">Anshika Bansal</a> 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anshika-bansal-65719a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anshika Bansal" height="30" width="40" /></a>
+ <a href="mailTo:bansalanshika20@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Anshika Bansal" height="30" width="40" /></a>
+<a href="https://leetcode.com/bansalanshika/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bansalanshika" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bansalanshika20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="bansalanshika20" height="30" width="40" /></a>
+</p>
 
 
 #### :bar_chart: Languages and Tools -
@@ -55,3 +32,4 @@ LINKEDIN=https://www.linkedin.com/in/anshika-bansal-65719a1b5/
 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika15&" alt="Anshika15" /></p>
