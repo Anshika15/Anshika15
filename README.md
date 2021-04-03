@@ -12,15 +12,6 @@
 </p>
 
 
-#### :bar_chart: Languages and Tools -
-
-<pre><img width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>   <img width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>    <img width="30px" src="https://img.icons8.com/color/48/000000/linux.png"/>   <img width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>   <img width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>   <img width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>    <img width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
-</pre>
-
-<br/>
-
-
-
 
 #### 🚀 My Coding Stats -
 
