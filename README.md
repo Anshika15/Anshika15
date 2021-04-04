@@ -15,12 +15,10 @@
 
 #### 🚀 My Coding Stats -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika15&layout=compact&hide=jupyter%20notebook,html&langs_count=8)](https://github.com/Anshika15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika15&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/Anshika15/github-readme-stats)
 
-![Anshika's github stats](https://github-readme-stats.vercel.app/api?username=Anshika15&show_icons=true&count_private=true&hide=contribs,prs,issues)
-
-
+![Anshika's github stats](https://github-readme-stats.vercel.app/api?username=Anshika15&show_icons=true&count_private=true&hide=contribs,prs,issues&theme=radical)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshika15&theme=dark)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika15&" alt="Anshika15" /></p>
