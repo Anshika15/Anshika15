@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshika15&label=Profile%20views&color=0e75b6&style=flat" alt="Anshika15" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anshika15&theme=onedark&title=Stars,Followers,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anshika-bansal-65719a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anshika Bansal" height="30" width="40" /></a>
@@ -11,6 +13,7 @@
  <a href="https://www.hackerrank.com/bansalanshika20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bansalanshika20" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bansalanshika20/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="bansalanshika20" height="30" width="40" /></a>
 </p>
+
 
 
 
